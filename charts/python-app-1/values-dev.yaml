@@ -11,4 +11,4 @@ requests:
   cpu: 40m
   memory: 40Mi
 image:
-  tag: 23dda6
+  tag: 9390db
